@@ -1,2 +1,3 @@
 # js-chai-youtube
-code repo for java script
+code repo for javascript
+auther-Rahul Upadhyay
